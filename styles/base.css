@@ -1,0 +1,9 @@
+/* --- The pages base or the background and body are here --- */
+
+* {
+  font-family: times;
+}
+
+body {
+  background: #fff;
+}
